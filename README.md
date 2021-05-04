@@ -4,13 +4,15 @@
 ---
 ### Project Goals 
 * To build a money transfer app that allow user to make international transfers back home to their families and friends. 
+* For now, it will be an MVP which will be a website where only I will have access to it. Users can call me, send funds to me and I shall make the transfer on their behalf at no extra cost.
 
 ### User Goals
 * To send funds to family and friends at little cost in no time.
 * To be able to send funds directly receiver's bank accounts, mobile or cash in hand.
 
 ### Company's Goals
-* To make the service to be at least 10 times cheaper and faster for the user compared to biggest competitors like WesternUnion.
+* To make the service to be at least 10 times cheaper and faster for the user compared to biggest competitors like Western Union.
+* To gain feedback from the user to improve the service further and create additional features if requested.
 
 ### User Stories
 * As a **user**, I want the service to be **much cheaper** and **faster** than the currently available services.
