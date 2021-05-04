@@ -4,7 +4,7 @@
 ---
 ### Project Goals 
 * To build a money transfer app that allow user to make international transfers back home to their families and friends. 
-* For now, it will be an MVP which will be a website where only I will have access to it. Users can call me, send funds to me and I shall make the transfer on their behalf at no extra cost.
+* For now, it will be an MVP which will be a website where only I will have access to it. Users can call me, send funds to me and I shall make the transfer on their behalf at no extra cost. It shall begin with sending funds from UK directly to Somalia.
 
 ### User Goals
 * To send funds to family and friends at little cost in no time.
