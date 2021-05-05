@@ -52,3 +52,19 @@ View wireframes for each device here:
 * [Desktop](assets/wireframes/GPHP-desktop.png)
 * [Tablet](assets/wireframes/GPHP-tablet.png)
 * [Mobile](assets/wireframes/GPHP-mobile.png)
+
+## Technologies Used 
+---
+**Languages**
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+**Tools & Libraries**
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Gitpod](https://gitpod.io/)
+* [JQuery](https://jquery.com/) 
+* [Popper](https://popper.js.org/)
