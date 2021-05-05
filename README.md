@@ -78,3 +78,19 @@ View wireframes for each device here:
 ---
 **Features** that have been **implemented**:
 * 
+
+**Features** that will be **implemented** in the **future**:
+
+## Testing 
+---
+
+## Bugs 
+---
+
+## Deployment 
+---
+
+## References 
+---
+### Code References 
+
