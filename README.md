@@ -39,3 +39,16 @@ I went [Roboto](https://fonts.google.com/specimen/Roboto?sort=popularity) becaus
 I chose to use the [Coolors](https://coolors.co/) colour scheme generator to find one suitable for this project. Below is a screenshot of the colour scheme. They are colours that are pleasant to look at.
 
 ![Colour Scheme](assets/wireframes/GP-colourScheme.png)
+
+### Wireframing 
+
+For **wireframing**, I used [Balsamiq](https://balsamiq.com/). I used it to create **simple** wireframes 
+showing the basic structure on which I built the website on. Some features maybe removed or added during 
+development. 
+
+View wireframes for each device here:
+
+**Start Page**
+* [Desktop](assets/wireframes/GPHP-desktop.png)
+* [Tablet](assets/wireframes/GPHP-tablet.png)
+* [Mobile](assets/wireframes/GPHP-mobile.png)
